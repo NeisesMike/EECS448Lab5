@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="http://people.eecs.ku.edu/~mneises/general.css">
+		<style></style>
+	</head>
+	<body>
+		<form id="myForm" action="AdminHome" method="post">
+			Username:
+			<input type="text" name="user" maxlength="25" size="15"><br>
+			Password:
+			<input type="text" name="pass" maxlength="25" size="15"><br>
+			<input type="submit" class="button" name="submit" value="Login">
+		</form>
+		<a href="http://people.eecs.ku.edu/~mneises/448">Home</a>
+	</body>
+</html>

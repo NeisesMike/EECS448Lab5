@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="http://people.eecs.ku.edu/~mneises/general.css">
+		<style></style>
+	</head>
+	<body>
+		<h1>Admin Powers</h1>
+		<ul>
+			<li><a href="http://people.eecs.ku.edu/~mneises/448/Lab5/ViewUsers.php">View Users</a></li>
+			<li><a href="http://people.eecs.ku.edu/~mneises/448/Lab5/ViewUserPosts.php">View Posts</a></li>
+			<li><a href="http://people.eecs.ku.edu/~mneises/448/Lab5/DeletePostFront.php">Delete Posts</a></li>
+		</ul>
+		<a href="http://people.eecs.ku.edu/~mneises/448">Home</a>
+	</body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="http://people.eecs.ku.edu/~mneises/general.css">
+		<style>
+		</style>
+	</head>
+	<body>
+		<form id="myForm" action="CreatePosts.php" method="post">
+			<textarea rows="4" cols="50" name="mypost"></textarea><br>
+			Username:
+			<input type="text" name="user" maxlength="25" size="15">
+			<input type="submit" class="button" name="submit" value="Post">
+		</form>
+
+		<a href="http://people.eecs.ku.edu/~mneises/448">Home</a>
+	</body>
+</html>
